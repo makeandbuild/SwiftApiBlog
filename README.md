@@ -1,2 +1,2 @@
 # SwiftApiBlog
-Source code for Ian's blog on building swift api's
+Swift source code example to go along with our blog on [Swift REST Design](http://makeandbuild.com/blog/post/swift-rest-design-myrch-series)
